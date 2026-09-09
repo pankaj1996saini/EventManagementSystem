@@ -194,6 +194,50 @@ npm run build
 This outputs a static build in `frontend/build`, which can be served by any static
 host (Netlify, Vercel, nginx) or served directly by the Express backend if desired.
 
+## Screenshots
+
+![Screenshot 1](Screenshots/Screenshot1.png)
+
+![Screenshot 2](Screenshots/Screenshot2.png)
+
+![Screenshot 3](Screenshots/Screenshot3.png)
+
+![Screenshot 4](Screenshots/Screenshot4.png)
+
+![Screenshot 5](Screenshots/Screenshot5.png)
+
+![Screenshot 6](Screenshots/Screenshot6.png)
+
+![Screenshot 7](Screenshots/Screenshot7.png)
+
+![Screenshot 8](Screenshots/Screenshot8.png)
+
+![Screenshot 9](Screenshots/Screenshot9.png)
+
+![Screenshot 10](Screenshots/Screenshot10.png)
+
+![Screenshot 11](Screenshots/Screenshot11.png)
+
+![Screenshot 12](Screenshots/Screenshot12.png)
+
+![Screenshot 13](Screenshots/Screenshot13.png)
+
+![Screenshot 14](Screenshots/Screenshot14.png)
+
+![Screenshot 15](Screenshots/Screenshot15.png)
+
+![Screenshot 16](Screenshots/Screenshot16.png)
+
+![Screenshot 17](Screenshots/Screenshot17.png)
+
+![Screenshot 18](Screenshots/Screenshot18.png)
+
+![Screenshot 19](Screenshots/Screenshot19.png)
+
+![Screenshot 20](Screenshots/Screenshot20.png)
+
+![Screenshot 21](Screenshots/Screenshot21.png)
+
 ---
 
 Developed by Pankaj Saini
